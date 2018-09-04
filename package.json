@@ -1,0 +1,19 @@
+{
+  "name": "swiftcodes",
+  "version": "1.0.0",
+  "description": "Swift Codes or BIC Codes for all the Banks in the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigBadAlien/SwiftCodes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigBadAlien/SwiftCodes/issues"
+  },
+  "homepage": "https://github.com/BigBadAlien/SwiftCodes#readme"
+}
