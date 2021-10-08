@@ -1,5 +1,5 @@
 {
-    "name": "pn/swiftcodes",
+    "name": "quang7hong81/swiftcodes",
     "description": "Swift Codes or BIC Codes for all the Banks in the world. Cached to json.",
     "keywords": [
         "BIC",
@@ -9,13 +9,13 @@
         "json"
     ],
     "version": "1.0.0",
-    "homepage": "https://github.com/PeterNotenboom/SwiftCodes",
+    "homepage": "https://https://github.com/Quang7hong81/SwiftCodes/",
     "license": "MIT",
     "authors": [
         {
             "name": "Thong Ngo",
             "e-mail": "quangthong1011@gmail.com"
-            "homepage": "https://github.com/PeterNotenboom/"
+            "homepage": "https://github.com/Quang7hong81/SwiftCodes/"
         }
     ]
 }
